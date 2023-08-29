@@ -21,7 +21,7 @@ require (
 	golang.org/x/image v0.0.0-20190523035834-f03afa92d3ff
 	golang.org/x/net v0.0.0-20190611141213-3f473d35a33a // indirect
 	golang.org/x/oauth2 v0.0.0-20190604053449-0f29369cfe45
-	golang.org/x/sys v0.0.0-20190610200419-93c9922d18ae // indirect
+	golang.org/x/sys v0.1.0 // indirect
 	google.golang.org/appengine v1.6.1 // indirect
 	gopkg.in/check.v1 v1.0.0-20180628173108-788fd7840127 // indirect
 	gopkg.in/oauth2.v3 v3.10.1
